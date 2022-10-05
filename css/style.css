@@ -1315,7 +1315,7 @@ p {
 
     .card_block5 h2 {
 
-        margin-left: 10px;
+        margin-left: 30px;
         margin-top: 30px;
     }
 
@@ -1324,7 +1324,30 @@ p {
         margin-right: 50px;
     }
 
-} 
+    .tex_block6 h2 {
+
+        font-size: 90px;
+    }
+
+    .tex_block6 p {
+
+        margin-left: 650px;
+    }
+
+    .web_block6 {
+
+        height: 1955px;
+    }
+
+    .grid_block6 {
+
+        margin-left: 230px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(1, 720px);
+    }
+
+}
+
 @media all and (min-width: 768px) and (max-width: 1024px) { 
 
 } 
