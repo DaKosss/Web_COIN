@@ -1173,6 +1173,8 @@ p {
 
 @media all and (min-width: 1024px) and (max-width: 1280px) {
 
+    
+
     .header {
 
         height: 670px;
@@ -1224,8 +1226,9 @@ p {
 
     .wordsW p {
 
-        padding-right: 50px;
-        width: 100px;
+        
+        width: 50px;
+        font-size: 15px;
     }
 
     .web_block1 {
