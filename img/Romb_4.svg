@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86" width="86" height="86">
+	<title>Rectangle 3-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="78.5" y1="0" x2="21.5" y2="64.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff3333"/>
+			<stop offset="1" stop-color="#ff3333" stop-opacity="0"/>
+		</linearGradient>
+		<image width="23" height="29" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjMiIGhlaWdodD0iMjkiIHZpZXdCb3g9IjAgMCAyMyAyOSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjYgMTguNjZWNi44NEMxNC42IDYuNDkzMzMgMTQuNjEzMyA2LjExMzMzIDE0LjY0IDUuN0MxNC42NjY3IDUuMjg2NjYgMTQuNzA2NyA0Ljg2NjY3IDE0Ljc2IDQuNDRMNC4zMiAxOC42NkgxNC42Wk0yMi4wNiAxOC42NlYyMC43QzIyLjA2IDIwLjkxMzMgMjEuOTkzMyAyMS4wOTMzIDIxLjg2IDIxLjI0QzIxLjc0IDIxLjM4NjcgMjEuNTQ2NyAyMS40NiAyMS4yOCAyMS40NkgxNy43MlYyOUgxNC42VjIxLjQ2SDEuODhDMS42MTMzMyAyMS40NiAxLjM4IDIxLjM4NjcgMS4xOCAyMS4yNEMwLjk5MzMzMyAyMS4wOCAwLjg3MzMzMyAyMC44ODY3IDAuODIgMjAuNjZMMC40NiAxOC44NEwxNC40IDAuMzM5OTk4SDE3LjcyVjE4LjY2SDIyLjA2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m43 0l43 43-43 43-43-43z"/>
+	<use id="4" href="#img1" transform="matrix(1,0,0,1,32,29)"/>
+</svg>

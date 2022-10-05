@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<title>Rectangle 31-svg</title>
+	<defs>
+		<image width="4" height="25" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNCIgaGVpZ2h0PSIyNSIgdmlld0JveD0iMCAwIDQgMjUiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zLjI3Mjk4IDE5LjY1MzRWMC44NDQzNkgwLjcyNzM5N1YxOS42NTM0SDMuMjcyOThaTTAuMjMyNDIyIDIzLjAxMjJDMC4yMzI0MjIgMjMuOTY2OCAxLjA0NTU5IDI0Ljc3OTkgMi4wMDAxOSAyNC43Nzk5QzIuOTU0NzggMjQuNzc5OSAzLjc2Nzk2IDIzLjk2NjggMy43Njc5NiAyMy4wMTIyQzMuNzY3OTYgMjIuMDU3NiAyLjk1NDc4IDIxLjI0NDQgMi4wMDAxOSAyMS4yNDQ0QzEuMDQ1NTkgMjEuMjQ0NCAwLjIzMjQyMiAyMi4wNTc2IDAuMjMyNDIyIDIzLjAxMjJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { fill: #ff3333 } 
+	</style>
+	<path id="Layer" class="s0" d="m30 0l30 30-30 30-30-30z"/>
+	<use id="!" href="#img1" transform="matrix(1,0,0,1,28,18)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 85" width="85" height="85">
+	<title>Rectangle 26-svg</title>
+	<defs>
+		<image width="30" height="18" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAzMCAxOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTAuMTkyIDAuNDE4NTEyTDYuNjcyIDE3LjM4NjVMMTMuMTUyIDAuNDE4NTEySDExLjE4NEw2LjY3MiAxMi42MzQ1TDIuMTYgMC40MTg1MTJIMC4xOTJaTTE1LjM5OTkgMC40MTg1MTJWMTYuNDI2NUgxNy4xNzU5VjAuNDE4NTEySDE1LjM5OTlaTTIxLjMwNjIgMC40MTg1MTJWMTYuNDI2NUgyMy4wODIyVjkuNDY2NTFIMjQuNjQyMkMyOC4yOTAyIDkuNDY2NTEgMjkuNzA2MiA3LjIzNDUxIDI5LjcwNjIgNC45Nzg1MUMyOS43MDYyIDMuOTcwNTEgMjkuNDE4MiAyLjU1NDUxIDI4LjI0MjIgMS41NDY1MUMyNy4xNjIyIDAuNjEwNTEzIDI1LjgxODIgMC40MTg1MTIgMjQuMjEwMiAwLjQxODUxMkgyMS4zMDYyWk0yMy4wODIyIDIuMDk4NTFIMjQuNDAyMkMyNS41NTQyIDIuMDk4NTEgMjcuOTMwMiAyLjMzODUxIDI3LjkzMDIgNC44ODI1MUMyNy45MzAyIDYuNzMwNTEgMjYuNjU4MiA3Ljc4NjUxIDI0LjU0NjIgNy43ODY1MUgyMy4wODIyVjIuMDk4NTFaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+		.s0 { fill: #ff3333 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 42.4l42.4-42.4 42.5 42.4-42.5 42.5z"/>
+	<use id="VIP" href="#img1" transform="matrix(1,0,0,1,28,34)"/>
+</svg>
