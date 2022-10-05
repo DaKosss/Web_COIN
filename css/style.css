@@ -1346,6 +1346,18 @@ p {
         grid-template-rows: repeat(1, 720px);
     }
 
+    .web_block7_container1 h2 {
+
+        font-size: 200px;
+        margin-top: 10px;
+    }
+
+    .web_block7_container1 img {
+
+        width: 120px;
+        margin-top: 20px;
+    }
+
 }
 
 @media all and (min-width: 768px) and (max-width: 1024px) { 
