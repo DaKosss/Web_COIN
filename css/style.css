@@ -20,7 +20,7 @@ p {
     height: 1050px;
     margin-top: 20px;
 
-    background-image: url(/img/RedL.svg);
+    background-image: url(../img/RedL.svg);
     background-repeat: no-repeat;
     background-position: center 142px;
 }
@@ -225,7 +225,7 @@ p {
     font-family: 'Noto Sans Mono', monospace;
     font-weight: 700;
     height: 714px;
-    background-image: url(/img/RedLB.svg);
+    background-image: url(../img/RedLB.svg);
     background-repeat: no-repeat;
     background-position: center 30px;
     background-size: 1900px 500px;
@@ -244,7 +244,7 @@ p {
 
 .card_block1 {
 
-    background-image: url(/img/card_block1.svg);
+    background-image: url(../img/card_block1.svg);
     background-repeat: no-repeat;
     
     text-align: center;
@@ -296,7 +296,7 @@ p {
 .web_block2 {
     font-size: 50px;
     height: 730px;
-    background-image: url(/img/RCircle.svg);
+    background-image: url(../img/RCircle.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -368,7 +368,7 @@ p {
     
     height: 884px;
     
-    background-image: url(/img/RedLB.svg);
+    background-image: url(../img/RedLB.svg);
     background-size: 800px 200px;
     background-position: center 160px;
     background-repeat: no-repeat;
@@ -380,7 +380,7 @@ p {
 
 .web_block4_container {
 
-    background-image: url(/img/RCircle.svg);
+    background-image: url(../img/RCircle.svg);
     background-repeat: no-repeat;
     background-position: center 140px;
     background-size: 600px;
@@ -412,7 +412,7 @@ p {
 
 .card_block4 {
 
-    background-image: url(/img/card_block4.svg);
+    background-image: url(../img/card_block4.svg);
     background-repeat: no-repeat;
     
     width: 360px;
@@ -572,7 +572,7 @@ p {
     justify-content: center;
 
     height: 1335px;
-    background-image: url(/img/RedLB.svg);
+    background-image: url(../img/RedLB.svg);
     background-repeat: no-repeat;
     background-position: center 31px;
     background-size: 1800px 500px;
@@ -580,7 +580,7 @@ p {
 
 .web_block6_container {
 
-    background-image: url(/img/RCircle.svg);
+    background-image: url(../img/RCircle.svg);
     background-repeat: no-repeat;
     background-position: center 120px;
 }
@@ -654,7 +654,7 @@ p {
 
 .card_block6 {
 
-    background-image: url(/img/card_block6.svg);
+    background-image: url(../img/card_block6.svg);
     background-repeat: no-repeat;
     background-position: -25px -25px;
     margin-top: 120px;
@@ -990,7 +990,7 @@ p {
     display: flex;
     justify-content:center;
 
-    background-image: url(/img/RedLBB.svg);
+    background-image: url(../img/RedLBB.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1045,7 +1045,7 @@ p {
     width: 250px;
     height: 260px;
     padding: 20px;
-    background-image: url(/img/card.svg);
+    background-image: url(../img/card.svg);
     background-repeat: no-repeat;
     background-position: -25px -25px;
     font-weight: 100;
@@ -1072,7 +1072,7 @@ p {
     display: flex;
     justify-content:center;
 
-    background-image: url(/img/RedL.svg);
+    background-image: url(../img/RedL.svg);
     background-repeat: no-repeat;
     background-position: center 0;
 }
