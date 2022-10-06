@@ -1673,7 +1673,7 @@ p {
 
     .grid_block5 {
 
-        width: 600px;
+        width: 580px;
         grid-template-columns: repeat(4, 160px);
         
         margin-right: 40px;
@@ -1683,12 +1683,19 @@ p {
 
         width: 130px;
         padding: 10px;
+
+        margin-left: -30px;
     }
 
     .web_block5_container1 {
 
         width: 750px;
-        margin-left: 40px;
+        margin-left: 10px;
+    }
+
+    .web_block5_container1 a img {
+
+        width: 44px;
     }
 
     .card_p1 p {
@@ -1719,16 +1726,22 @@ p {
     .web_block5 h2 {
 
         margin-right: 50px;
+        
+    }
+
+    .web_block5 p {
+
+        width: 400px;
     }
 
     .tex_block6 h2 {
 
-        font-size: 90px;
+        font-size: 75px;
     }
 
     .tex_block6 p {
 
-        margin-left: 650px;
+        margin-left: 370px;
     }
 
     .web_block6 {
@@ -1738,20 +1751,20 @@ p {
 
     .grid_block6 {
 
-        margin-left: 230px;
+        margin-left: 90px;
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(1, 720px);
     }
 
     .web_block7_container1 h2 {
 
-        font-size: 200px;
+        font-size: 180px;
         margin-top: 10px;
     }
 
     .web_block7_container1 img {
 
-        width: 120px;
+        width: 90px;
         margin-top: 20px;
     }
 
@@ -1760,57 +1773,104 @@ p {
         margin-right: 0;
     }
 
+    .web_block7_container2 h2 {
+
+        font-size: 100px;
+        margin-left: 50px;
+    }
+
+    .web_block7_container2 img {
+
+        width: 120px;
+    }
+
     .web_block7_container2_2 {
 
         margin-right: 0;
+        margin-left: 50px;
+    }
+
+    .web_block7_container2_2 h2 {
+
+        font-size: 100px;
+    }
+
+    .web_block7_container2_2 p {
+
+        margin-right: 30px;
     }
 
     .web_block7_container3  {
 
-        width: 850px;
-        padding: 30px;
+        width: 700px;
+        padding: 10px;
     }
 
     .web_block7_container3 p {
 
-        font-size: 21px;
+        font-size: 19px;
+        width: 640px;
     }
 
     .web_block7_container3_1 p {
-        width: 220px;
-        font-size: 19px;
+        width: 190px;
+        font-size: 15px;
     }
 
     .web_block7_container3 img {
 
-        margin-left: 10px;
+        width: 50px;
+        margin-left: 0;
+        margin-right: 30px;
     }
 
     .web_block7_container3_1 h2 {
 
-        font-size: 26px;
+        font-size: 23px;
+        width: 130px;
+    }
+
+    .web_block7_container3_1 {
+
+        margin-top: 30px;
     }
 
     .web_block7_container3_2 {
 
-        margin-right: 300px;
+        margin-right: 250px;
         margin-top: 90px;
     }
     
     .web_block7_container3_3 {
 
-        width: 880px;
-        padding: 40px;
+        width: 680px;
+        padding: 20px;
+    }
+
+    .web_block7_container3_3SB {
+
+        width: 660px;
     }
 
     .web_block7_container3_3SB p {
 
-        width: 130px;
+        width: 110px;
+        font-size: 13px;
+    }
+
+    .web_block7_container3_3SB img {
+
+        width: 90px;
+    }
+
+    .web_block7_container3_32 {
+
+        width: 640px;
     }
 
     .web_block7_container3_3 h3 {
         
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .web_block7_container3_31 h2 {
@@ -1818,20 +1878,51 @@ p {
         margin-top: 40px;
     }
 
+    .web_block7_container3_31 p {
+
+        width: 680px;
+        font-size: 20px;
+    }
+
     .web_block7 {
 
-        height: 3220px;
+        height: 2820px;
     }
 
     .web_block8_container1 {
 
-        margin-right: 150px;
+        margin-right: 70px;
+        
+    }
+
+    .web_block8_container1 h2 {
+
+        width: 440px;
+        font-size: 90px;
+    }
+
+    .web_block8_container1 p {
+
+        font-size: 19px;
+    }
+
+    .card {
+
+        background-size: 230px;
+        background-position: center;
+        width: 150px;
+        height: 160px;
+    }
+
+    .card h3 {
+
+        font-size: 11px;
     }
 
     .web_block8_container2 {
 
-        grid-template-columns: repeat(3, 290px);
-        grid-template-rows: repeat(5, 290px);
+        grid-template-columns: repeat(3, 210px);
+        grid-template-rows: repeat(5, 220px);
         gap: 10px;
         margin-left: 160px;
     }
@@ -1846,6 +1937,11 @@ p {
 
         margin-top: 1230px;
         width: 700px;
+    }
+
+    .web_block8 {
+
+        height: 870px;
     }
 
 
