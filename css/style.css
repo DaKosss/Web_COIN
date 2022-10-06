@@ -2382,7 +2382,7 @@ p {
 
     .web_block6 {
 
-        height: 1655px;
+        height: 1475px;
         background-size: 700px;
     }
 
@@ -2396,7 +2396,7 @@ p {
         margin-top: 70px;
         margin-left: 90px;
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(1, 720px);
+        grid-template-rows: repeat(1, 540px);
     }
 
 
@@ -2463,83 +2463,91 @@ p {
         margin-top: 5px;
     }
 
+    .web_block7_container1 {
+
+
+    }
+
     .web_block7_container1 h2 {
 
-        font-size: 180px;
+        font-size: 110px;
         margin-top: 10px;
     }
 
     .web_block7_container1 img {
 
-        width: 90px;
+        width: 60px;
         margin-top: 20px;
     }
 
     .web_block7_container2 {
 
-        margin-right: 0;
+        margin-right: 10px;
+        margin-left: 10px;
     }
 
     .web_block7_container2 h2 {
 
-        font-size: 100px;
-        margin-left: 50px;
+        font-size: 80px;
     }
 
     .web_block7_container2 img {
 
-        width: 120px;
+        width: 70px;
     }
 
     .web_block7_container2_2 {
 
-        margin-right: 0;
+        margin-right: 10px;
         margin-left: 50px;
     }
 
     .web_block7_container2_2 h2 {
 
-        font-size: 100px;
+        font-size: 80px;
     }
 
     .web_block7_container2_2 p {
 
-        margin-right: 30px;
+        font-size: 16px;
+        width: 200px;
     }
 
     .web_block7_container3  {
 
-        width: 700px;
+        width: 440px;
         padding: 10px;
+        margin-top: 40px;
     }
 
     .web_block7_container3 p {
 
-        font-size: 19px;
-        width: 640px;
+        font-size: 12px;
+        width: 450px;
     }
 
     .web_block7_container3_1 p {
-        width: 190px;
-        font-size: 15px;
+        width: 120px;
+        font-size: 12px;
     }
 
     .web_block7_container3 img {
 
         width: 50px;
         margin-left: 0;
-        margin-right: 30px;
+        margin-right: 60px;
     }
 
     .web_block7_container3_1 h2 {
 
-        font-size: 23px;
-        width: 130px;
+        font-size: 14px;
+        width: 80px;
     }
 
     .web_block7_container3_1 {
 
         margin-top: 30px;
+        
     }
 
     .web_block7_container3_2 {
