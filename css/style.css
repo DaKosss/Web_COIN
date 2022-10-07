@@ -3314,24 +3314,24 @@ p {
     .web_block7_container3 p {
 
         font-size: 10px;
-        width: 390px;
+        width: 340px;
     }
 
     .web_block7_container3_1 p {
-        width: 120px;
-        font-size: 12px;
+        width: 90px;
+        font-size: 9px;
     }
 
     .web_block7_container3 img {
 
-        width: 40px;
+        width: 20px;
         margin-left: 0;
         margin-right: 10px;
     }
 
     .web_block7_container3_1 h2 {
 
-        font-size: 14px;
+        font-size: 11px;
         width: 80px;
     }
 
@@ -3347,25 +3347,32 @@ p {
         margin-top: 90px;
     }
 
+    .web_block7_container3_2 h2 {
+
+        font-size: 90px;
+        margin-left: 10px;
+    }
+
     .web_block7_container3_2 p {
 
         font-size: 19px;
+        margin-left: 10px;
     }
     
     .web_block7_container3_3 {
 
-        width: 380px;
+        width: 340px;
         padding: 10px;
     }
 
     .web_block7_container3_3SB {
 
-        width: 375px;
+        width: 330px;
     }
 
     .web_block7_container3_3SB p {
 
-        width: 70px;
+        width: 60px;
         font-size: 8px;
     }
 
@@ -3376,17 +3383,17 @@ p {
 
     .web_block7_container3_32 {
 
-        width: 330px;
+        width: 250px;
     }
 
     .web_block7_container3_32 p {
 
-        font-size: 10px;
+        font-size: 9px;
     }
 
     .web_block7_container3_3 h3 {
         
-        font-size: 9px;
+        font-size: 8px;
         margin-top: 10px;
     }
 
@@ -3398,8 +3405,8 @@ p {
 
     .web_block7_container3_31 p {
 
-        width: 370px;
-        font-size: 15px;
+        width: 310px;
+        font-size: 11px;
         margin-right: 10px;
     }
 
@@ -3419,15 +3426,16 @@ p {
 
     .web_block8_container1 h2 {
 
-        width: 260px;
-        font-size: 50px;
-        margin-left: 60px;
+        width: 180px;
+        font-size: 40px;
+        margin-left: 120px;
     }
 
     .web_block8_container1 p {
 
-        font-size: 13px;
-        width: 200px;
+        font-size: 10px;
+        width: 140px;
+        line-height: 15px;
     }
 
     .card {
@@ -3453,10 +3461,10 @@ p {
 
     .web_block8_container2 {
 
-        grid-template-columns: repeat(3, 150px);
-        grid-template-rows: repeat(5, 155px);
+        grid-template-columns: repeat(2, 150px);
+        grid-template-rows: repeat(8, 155px);
         gap: 10px;
-        margin-left: 100px;
+        margin-left: 180px;
         margin-top: 30px;
     }
 
@@ -3474,7 +3482,7 @@ p {
 
     .web_block9 h2 {
 
-        font-size: 50px;
+        font-size: 40px;
         padding: 0;
     }
 
@@ -3485,14 +3493,14 @@ p {
 
     .footer_container {
 
-        margin-top: 680px;
-        width: 400px;
+        margin-top: 1180px;
+        width: 350px;
         
     }
 
     .footer_container h3 {
 
-        font-size: 8px;
+        font-size: 5px;
     }
 
     .footer_container .logo {
