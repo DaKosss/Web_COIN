@@ -185,6 +185,7 @@ p {
     padding: 20px;
     color: white;
     background-color: rgb(255, 39, 39);
+    border-style: none;
 }
 
 .block2 button:hover {
@@ -2012,13 +2013,14 @@ p {
         grid-template-columns: repeat(3, 30px);
         grid-template-rows: min-content;
         margin-left: 0;
-        margin-right: 10px;
-        width: 70px;
+        margin-right: 5px;
+        width: 80px;
     }
 
     .links a img {
 
         width: 12px;
+        height: 9px;
     }
 
     .t_nav {
@@ -2042,9 +2044,11 @@ p {
         width: 15px;
     }
 
+    
 
     .d_login a {
 
+        margin-right: 10px;
         margin-left: 5px;
         font-size: 12px;
     }
@@ -2535,7 +2539,7 @@ p {
 
         width: 50px;
         margin-left: 0;
-        margin-right: 60px;
+        margin-right: 10px;
     }
 
     .web_block7_container3_1 h2 {
@@ -2552,94 +2556,120 @@ p {
 
     .web_block7_container3_2 {
 
-        margin-right: 250px;
+        margin-right: 60px;
         margin-top: 90px;
+    }
+
+    .web_block7_container3_2 p {
+
+        font-size: 19px;
     }
     
     .web_block7_container3_3 {
 
-        width: 680px;
-        padding: 20px;
+        width: 445px;
+        padding: 10px;
     }
 
     .web_block7_container3_3SB {
 
-        width: 660px;
+        width: 450px;
     }
 
     .web_block7_container3_3SB p {
 
-        width: 110px;
-        font-size: 13px;
+        width: 90px;
+        font-size: 9px;
     }
 
     .web_block7_container3_3SB img {
 
-        width: 90px;
+        width: 50px;
     }
 
     .web_block7_container3_32 {
 
-        width: 640px;
+        width: 390px;
+    }
+
+    .web_block7_container3_32 p {
+
+        font-size: 13px;
     }
 
     .web_block7_container3_3 h3 {
         
-        font-size: 18px;
+        font-size: 14px;
     }
 
     .web_block7_container3_31 h2 {
 
-        margin-top: 40px;
+        margin-top: 10px;
+        font-size: 19px;
     }
 
     .web_block7_container3_31 p {
 
-        width: 680px;
-        font-size: 20px;
+        width: 420px;
+        font-size: 17px;
+        margin-right: 10pxw;
     }
+
+    
 
     .web_block7 {
 
-        height: 2920px;
+        height: 2400px;
     }
 
     .web_block8_container1 {
 
         margin-right: 70px;
-        
+        margin-left: 60px;
+        width: 550px;
     }
 
     .web_block8_container1 h2 {
 
-        width: 440px;
-        font-size: 90px;
+        width: 260px;
+        font-size: 50px;
+        margin-left: 60px;
     }
 
     .web_block8_container1 p {
 
-        font-size: 19px;
+        font-size: 13px;
+        width: 200px;
     }
 
     .card {
 
-        background-size: 230px;
-        background-position: center;
+        background-size: 165px;
+        background-position: -5px -5px;
         width: 150px;
         height: 160px;
     }
 
+    .card p {
+
+        font-size: 12px;
+    }
+
     .card h3 {
 
-        font-size: 11px;
+        font-size: 9px;
+        line-height: 14px;
+        margin-top: 10px;
+        width: 100px;
     }
 
     .web_block8_container2 {
 
-        grid-template-columns: repeat(3, 210px);
-        grid-template-rows: repeat(5, 220px);
+        grid-template-columns: repeat(3, 150px);
+        grid-template-rows: repeat(5, 155px);
         gap: 10px;
-        margin-left: 160px;
+        margin-left: 100px;
+        margin-top: 30px;
     }
 
     .web_block8 {
@@ -2650,25 +2680,36 @@ p {
 
     .web_block9 {
 
-        margin-top: 20px;
-        height: 700px;
+        margin-top: 80px;
+        height: 500px;
+    }
+
+    .web_block9 h2 {
+
+        font-size: 50px;
+        padding: 0;
+    }
+
+    .web_block9_container img {
+
+        width: 60px;
     }
 
     .footer_container {
 
-        margin-top: 1230px;
-        width: 700px;
+        margin-top: 680px;
+        width: 400px;
         
     }
 
     .footer_container h3 {
 
-        font-size: 13px;
+        font-size: 8px;
     }
 
     .footer_container .logo {
 
-        margin-right: 20px;
+        margin-right: 10px;
     }
 
     .footer_container .links {
@@ -2676,6 +2717,18 @@ p {
         display: flex;
         margin-left: 30px;
         margin-right: 0px;
+
+        display: grid;
+        grid-template-columns: repeat(3, 20px);
+        grid-template-rows: min-content;
+        margin-left: 0;
+        margin-right: 10px;
+        width: 70px;
+    }
+
+    .footer_container .links a img {
+
+        height: 9px;
     }
 
     .footer_container .t_nav a {
@@ -2685,7 +2738,7 @@ p {
 
     .footer_container .logo a img {
 
-        width: 80px;
+        width: 40px;
     }
 
     .footer_container .d_login a {
