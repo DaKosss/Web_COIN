@@ -1,3 +1,18 @@
+
+.swiper-slide {
+text-align: center;
+
+background: #fff;
+width: 300px;
+height: 350px;
+
+}
+
+html {
+
+    overflow-x: hidden;
+}
+
 body {
     
     background-color: black;
@@ -894,12 +909,11 @@ p {
 .web_block7_container3_3 {
 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
     margin-top: 100px;
     border: 2px solid red;
     border-radius: 5px;
-    width: 1300px;
-    padding: 100px;
+    width: 1400px;
+    padding: 80px;
     text-align: center;
 }
 
@@ -910,19 +924,25 @@ p {
 
 }
 
+.web_block7_container3_3SB img {
+
+    width: 180px;
+}
+
 
 .web_block7_container3_3 h3 {
 
     margin-top: 40px;
-    font-size: 24px;
+    font-size: 28px;
 }
 
 .web_block7_container3_3 p {
 
     margin-top: 10px;
-    font-size: 16px;
+    
+    font-size: 20px;
     color: black;
-    width: 200px;
+    width: 300px;
 }
 
 .web_block7_container3_31SB {
@@ -2815,8 +2835,6 @@ p {
         min-width: 12px;
         max-width: 15px;
     }
-
-    
 
     .d_login a {
 
