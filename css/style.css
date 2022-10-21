@@ -1,3 +1,10 @@
+.tippy-box[data-theme~='tomato'] {
+    background-color: rgb(19, 19, 19);
+    color: rgb(255, 255, 255);
+    border: 1px solid red;
+    border-radius: 1px;
+    font-family: 'Noto Sans Mono', monospace;
+  }
 
 .swiper-slide {
 text-align: center;
@@ -9,22 +16,18 @@ height: 350px;
 }
 
 html {
-
     overflow-x: hidden;
 }
 
 body {
-    
     background-color: black;
 }
 
 a {
-
     text-decoration: none;
 }
 
 p {
-
     color: white;
 }
 
@@ -2634,7 +2637,7 @@ p {
 
     .web_block7 {
 
-        height: 2400px;
+        height: 2600px;
     }
 
     .web_block8_container1 {
@@ -3432,7 +3435,7 @@ p {
 
     .web_block7 {
 
-        height: 2230px;
+        height: 2330px;
     }
 
     .web_block8_container1 {

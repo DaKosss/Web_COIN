@@ -6,10 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VIP COIN</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -37,11 +35,11 @@
                     </div>
                     
                     <div class="links">
-                        <a href=""><img src="./img/inst.svg" alt=""></a>
-                        <a href=""><img src="./img/teleg.svg" alt=""></a>
-                        <a href=""><img src="./img/vk.svg" alt=""></a>
-                        <a href=""><img src="./img/youtube.svg" alt=""></a>
-                        <a href=""><img src="./img/odnoclass.svg" alt=""></a>
+                        <a href="javascript:void(0)" onclick="instLogin()"><img src="./img/inst.svg" alt=""></a>
+                        <a href="javascript:void(0)"><img src="./img/teleg.svg" alt=""></a>
+                        <a href="javascript:void(0)"><img src="./img/vk.svg" alt=""></a>
+                        <a href="javascript:void(0)"><img src="./img/youtube.svg" alt=""></a>
+                        <a href="javascript:void(0)"><img src="./img/odnoclass.svg" alt=""></a>
                     </div>
                     <div class="d_login">
                         <img src="./img/login.svg" alt="">
@@ -55,7 +53,7 @@
                 <div class="sec_container">
                     <div class="Tblock animate__animated animate__fadeInDownBig">
                         <p>Новая платежная</p>
-                        <div class="Tblock_logo animate__animated animate__fadeInDownBig">
+                        <div class="Tblock_logo animate__animated animate__fadeInDownBig rellax" data-rellax-speed="3">
                             <img src="./img/logoRec.svg" alt="">
                         </div>
                     </div>
@@ -66,7 +64,7 @@
 
                     <div class="block2 animate__animated animate__fadeInDownBig">
                         <p>Для использования на всех сайтах и сервисах с онлайн играми и ставками.</p>
-                        <button>Зарегистрироваться</button>
+                        <button id="myButton">Зарегистрироваться</button>
                     </div>
                 </div>
                 
@@ -138,14 +136,14 @@
                 </div>
     
             </div>
-            <div class="web_block2">
+            <div class="web_block2 rellax" data-rellax-percentage="0.5" data-rellax-speed="4">
                 <div class="tex_block2">
                     <p>Нельзя купить до выхода на биржу. Можно</p>
                     <p>только выиграть или заработать</p>
                 </div>
             </div>
             <div class="web_block3">
-                <div class="web_block3_container">
+                <div class="web_block3_container rellax" data-rellax-percentage="0.5" data-rellax-speed="2">
                     <div class="tex_block3">
                         <p>1 VIP-Coin</p>
                         <p>1 USDT</p>
@@ -713,6 +711,11 @@
         </div>
     </footer>
 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.12.1/rellax.min.js" integrity="sha512-f5HTYZYTDZelxS7LEQYv8ppMHTZ6JJWglzeQmr0CVTS70vJgaJiIO15ALqI7bhsracojbXkezUIL+35UXwwGrQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>    
     <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
     <script src="./main.js"></script>
 </body>
